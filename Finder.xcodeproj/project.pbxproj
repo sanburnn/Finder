@@ -14,6 +14,7 @@
 		13B405902B3B21B600272B50 /* FinderTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13B4058F2B3B21B600272B50 /* FinderTests.swift */; };
 		13B4059A2B3B21B600272B50 /* FinderUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13B405992B3B21B600272B50 /* FinderUITests.swift */; };
 		13B4059C2B3B21B600272B50 /* FinderUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13B4059B2B3B21B600272B50 /* FinderUITestsLaunchTests.swift */; };
+		13B405AB2B3B23FF00272B50 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 13B405AA2B3B23FF00272B50 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		13B405952B3B21B600272B50 /* FinderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FinderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B405992B3B21B600272B50 /* FinderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinderUITests.swift; sourceTree = "<group>"; };
 		13B4059B2B3B21B600272B50 /* FinderUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinderUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		13B405AA2B3B23FF00272B50 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		13B405722B3B21B400272B50 = {
 			isa = PBXGroup;
 			children = (
+				13B405AA2B3B23FF00272B50 /* README.md */,
 				13B4057D2B3B21B400272B50 /* Finder */,
 				13B4058E2B3B21B600272B50 /* FinderTests */,
 				13B405982B3B21B600272B50 /* FinderUITests */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				13B405AB2B3B23FF00272B50 /* README.md in Resources */,
 				13B405862B3B21B600272B50 /* Preview Assets.xcassets in Resources */,
 				13B405832B3B21B600272B50 /* Assets.xcassets in Resources */,
 			);
